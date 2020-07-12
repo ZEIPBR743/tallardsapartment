@@ -2,7 +2,11 @@
 
 ## download and extract this folder. 
 
--> you need to save full account ledger as "ledger.html" in src folder see the document for instr
+Pre-requisites: Need Java jdk or jre installed 
+
+Steps:
+
+-> Need to save full account ledger from payment portal page as "ledger.html" in src folder see the document for instr
 
 -> double click runme.jar
 
