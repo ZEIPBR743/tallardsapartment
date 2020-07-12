@@ -1,6 +1,6 @@
 # tallards
 
-##download and extract this folder. 
+## download and extract this folder. 
 
 -> you need to save full account ledger as "ledger.html" in src folder see the document for instr
 
