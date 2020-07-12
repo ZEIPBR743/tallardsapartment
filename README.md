@@ -9,3 +9,10 @@
 -> enter a name in the blank to run just that name
 
 -> select runall to run all
+
+## Beta version folder is not working
+
+## error reporting
+### please report any errors
+
+## Do not commit sensitive information
