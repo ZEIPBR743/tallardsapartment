@@ -12,7 +12,7 @@ Steps:
 
 -> enter a name in the blank to run just that name (click 2nd button)
 
-   * if you leave that blank empty, it will simply list out every thing in a pocessible .csv file
+   * if you leave that blank empty, it will simply list out every thing in a processible .csv file
    
    * note that the total in the last column is culmulative
 
