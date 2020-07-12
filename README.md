@@ -10,9 +10,15 @@ Steps:
 
 -> double click runme.jar
 
--> enter a name in the blank to run just that name
+-> enter a name in the blank to run just that name (click 2nd button)
 
--> select runall to run all
+   * if you leave that blank empty, it will simply list out every thing in a pocessible .csv file
+   
+   * note that the total in the last column is culmulative
+
+-> select runall to run all (the 1st button)
+   
+   * This will just Sum up everyone's total
 
 ## Beta version folder is not working
 
